@@ -2,7 +2,7 @@
 
 ## Business Context/Summary:
 
-The objective of the exercise is working and managing multiple tables. As part of this exercise, I am loading the data from multiple sources and defining and managing relationships between them. I will be using the DAX syntax to enhance our dataset.
+The objective of the exercise is working and managing multiple tables. As part of this exercise, I am loading the data from multiple sources and defining and managing relationships between them. I will be using the DAX syntax to enhance the dataset.
 
 ## Situation
 
