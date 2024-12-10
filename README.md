@@ -2,11 +2,11 @@
 
 ## Business Context/Summary:
 
-The objective of the exercise is working and managing multiple tables. As part of this exercise, we are loading the data from multiple sources and defining and managing relationships between them. We will be using the DAX syntax to enhance our dataset.
+The objective of the exercise is working and managing multiple tables. As part of this exercise, I am loading the data from multiple sources and defining and managing relationships between them. I will be using the DAX syntax to enhance our dataset.
 
 ## Situation
 
-You have been provided with retail data; the data are in 4 disparate files. Your eventual goal is to make a high level dashboard with different cuts, and some insights. As a first step, you need to get all 4 tables in your data model and ensure the relationships between the tables are well defined for further use. You are also required to add some fields in the data - to enable the different views - Net Units, Weekday vs Weekend performance, etc.
+I have been provided with retail data; the data are in 4 disparate files. My eventual goal is to make a high level dashboard with different cuts, and some insights. As a first step, I need to get all 4 tables in my data model and ensure the relationships between the tables are well defined for further use. I am also required to add some fields in the data - to enable the different views - Net Units, Weekday vs Weekend performance, etc.
 
 ## Tasks
 1. Load all the files, one by one into the data model-Make sure the header contains the field names in all the files
